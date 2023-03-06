@@ -2,13 +2,11 @@
 
 ## Important Links
 
-[Collab](https://colab.research.google.com/drive/1E_d-K01fFcewxhSywDMmmV_qjgV41TRZ?usp=sharing) with Faster RCNN trained model:
+[Collab](https://colab.research.google.com/drive/1E_d-K01fFcewxhSywDMmmV_qjgV41TRZ?usp=sharing) with Faster RCNN trained model
 
-[https://colab.research.google.com/drive/1E_d-K01fFcewxhSywDMmmV_qjgV41TRZ?usp=sharing](https://colab.research.google.com/drive/1E_d-K01fFcewxhSywDMmmV_qjgV41TRZ?usp=sharing)
 
-[Collab](https://colab.research.google.com/drive/1WpPHPkwbQVMaBE-e3r4sU_MkzJUfox4x?usp=sharing) with YOLOv8 trained model:
+[Collab](https://colab.research.google.com/drive/1WpPHPkwbQVMaBE-e3r4sU_MkzJUfox4x?usp=sharing) with YOLOv8 trained model
 
-[https://colab.research.google.com/drive/1WpPHPkwbQVMaBE-e3r4sU_MkzJUfox4x?usp=sharing](https://colab.research.google.com/drive/1WpPHPkwbQVMaBE-e3r4sU_MkzJUfox4x?usp=sharing)
 
 ## Files
 
